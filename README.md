@@ -40,23 +40,6 @@ Each algorithm folder contains:
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repo:
-```bash
-git clone https://github.com/muhammadnouman911/Gender-Classification.git
-cd Gender-Classification
-```
-
-### 2. Install required libraries:
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
-
-### 3. Open the notebooks:
-Use **Jupyter Notebook** or **Google Colab** to explore each model’s implementation.
-
----
 
 ## 🎯 Goal
 
@@ -66,8 +49,7 @@ The goal of this project is to understand and implement basic supervised learnin
 
 ## 📬 Contact
 
-For any questions or collaborations:  
-📧 [muhammadnouman911@github.com](mailto:muhammadnouman911@github.com)
+For any questions or collaborations Contact me .
 
 ---
 
